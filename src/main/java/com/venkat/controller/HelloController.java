@@ -9,6 +9,6 @@ public class HelloController {
 	@GetMapping("/getGreating")
 	public String greatings() {
 		
-		return "GitHub action demo test....";
+		return "GitHub action demo venkat....";
 	}
 }
